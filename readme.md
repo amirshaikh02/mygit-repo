@@ -4,3 +4,6 @@ Readme.md added in github repo.
 # git status
 # git add
 
+# git merge
+# git pull
+
